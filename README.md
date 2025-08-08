@@ -1,7 +1,7 @@
 # Equation-Solver
 This Python project helps solve linear and quadratic equations using object-oriented programming (OOP).
 
-What It Does
+**What It Does**
 
 Solves equations like 2x + 3 = 0 and x² + 2x + 1 = 0
 
@@ -9,7 +9,7 @@ Tells you more info like slope or shape of the curve
 
 Neatly formats the results so they look clean and easy to read
 
-Main Parts
+***Main Parts***
 
 Equation (base class)
 
